@@ -1,4 +1,4 @@
-# LogisticRegression-TitanicDataset-CodingNinjas
+# LogisticRegression-TitanicDataset-MachineLearning
 In this logistic regression project using the Titanic dataset, we aim to predict the probability of survival for passengers based on various features such as age, gender, and ticket class. This binary classification model helps us understand the factors influencing survival on the ill-fated Titanic.
 
 Titanic dataset is one of the datasets available in sklearn.
